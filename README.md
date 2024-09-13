@@ -7,7 +7,7 @@
 
 ---
 
-Dự án này là một công cụ tấn công từ chối dịch vụ (DDoS). Mục tiêu là tối ưu hóa tốc độ gửi yêu cầu để tạo ra tải trọng lớn lên máy chủ mục tiêu.
+Dự án này là một công cụ tấn công từ chối dịch vụ (DOS/DDoS). Mục tiêu là tối ưu hóa tốc độ gửi yêu cầu để tạo ra tải trọng lớn lên máy chủ mục tiêu.
 
 <div align="center">
   <h2>DEMO</h2>
